@@ -1,4 +1,4 @@
-**Classifying Burn Severity in the Kalahari using Drone Imagery and Random Forest Classification Algorithims** <img align="right" width="320" height="200" src="/assets/IMG/github1.png">
+**Classifying Burn Severity in the Kalahari using Drone Imagery and Random Forest Classification Algorithims** <img align="right" width="320" height="175" src="/assets/IMG/github1.png">
 
 AOS Machine Learning Final Project
 
