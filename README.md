@@ -2,5 +2,5 @@
 
 Welcome! 
 
-[Code](file:///C:/Users/gille/Downloads/Masters_GDAL_Attempt01.html)
+[Random Forest Burn Severity Classification](https://https://nbviewer.org/github/maddie684/burn_severity.github.io/blob/main/assets/data/Masters_GDAL_Attempt01.ipynb)
 
