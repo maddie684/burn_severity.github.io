@@ -2,5 +2,5 @@
 
 Welcome! 
 
-[Random Forest Burn Severity Classification](https://https://nbviewer.org/github/maddie684/burn_severity.github.io/blob/main/assets/data/Masters_GDAL_Attempt01.ipynb)
+[Random Forest Burn Severity Classification](https://nbviewer.org/github/maddie684/burn_severity.github.io/blob/main/assets/data/Masters_GDAL_Attempt01.ipynb)
 
