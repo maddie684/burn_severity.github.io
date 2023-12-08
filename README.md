@@ -2,10 +2,5 @@
 
 Welcome! 
 
-
-
-* To get data for your project, you could:
-  * use **your own data** from a separate research activity
-  * **scour the internet** to find something original, then preprocess it yourself - see the Module Overview on BruinLearn for some resources
-  * browse an archive of data designed for machine learning problems, such as the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/datasets)
+[Code](file:///C:/Users/gille/Downloads/Masters_GDAL_Attempt01.html)
 
