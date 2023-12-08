@@ -1,8 +1,8 @@
 ## Classifying Burn Severity in the Kalahari using Drone Imagery and Random Forest Classification Algorithims
 
-<img align="right" width="320" height="250" src="/assets/IMG/github1.png">
+<img align="right" width="375" height="250" src="/assets/IMG/github1.png">
 
-### Burn Severity Project
+### Burn Severity Project Code: 
 
 [Random Forest Burn Severity Classification Jupyter Notebook](https://nbviewer.org/github/maddie684/burn_severity.github.io/blob/main/assets/data/Masters_GDAL_Attempt01.ipynb)
 
