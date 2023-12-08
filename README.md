@@ -8,7 +8,7 @@
 
 * The following page outlines the steps to create a burn severity classification model using drone dervied imagery. Access to code and ArcPro data is avaliable via this site. For access to orignial imagery sources please reach out to: maddiegillespie@ucla.edu for access as file sizes are too large to be hosted on this page.
 
-[Access to final report:](./Final Report_ Machine Learning Project.pdf)
+[Access to final report](./Final%20Report_%20Machine%20Learning%20Project.pdf)
 
 ## Methodological Flow Chart
 <img align="center" width="1000" height="550" src="/assets/IMG/github2_flowchart.png">
