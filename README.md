@@ -11,4 +11,4 @@
 [Access to final report](./Final%20Report_%20Machine%20Learning%20Project.pdf)
 
 ## Methodological Flow Chart
-<img align="center" width="1200" height="550" src="/assets/IMG/flowchart_github.png">
+<img align="center" width="1200" height="450" src="/assets/IMG/flowchart_github.png">
